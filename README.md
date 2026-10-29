@@ -1,50 +1,65 @@
-# CRAPPO CRYPTOCURRENCIES
+# CRAPPO – Cryptocurrency Landing Page
 
-> A simple landing page for your crypto currencies.
+A responsive multi-section landing page built as a personal practice project to strengthen HTML and CSS skills.
 
 <p align="center">
   👀 &nbsp;
-  <a href="https://crappo-crypto-cnkhm098o-geminii.vercel.app/" target="_blank">Demo</a> | 🐦 &nbsp; 
-  <a href="https://www.figmacrush.com/crypto-landing-template-for-figma/">Design Inspiration</a>
+  <a href="https://crappo-crypto-cnkhm098o-geminii.vercel.app/" target="_blank">Live Demo</a>
+  &nbsp; | &nbsp;
+  🎨 &nbsp;
+  <a href="https://www.figmacrush.com/crypto-landing-template-for-figma/" target="_blank">Design Inspiration</a>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png" alt="Parcel" />
+  <img src="https://img.shields.io/badge/Parcel-21374B?style=for-the-badge&logo=parcel&logoColor=white" alt="Parcel" />
 </p>
 
 <div align="center">
-  <img src="./screenshots/desktop.png" width="50%" />
+  <img src="./screenshots/desktop.png" width="60%" alt="Desktop preview" />
 </div>
 
-<div align="center" style="margin-top: 2rem;">
-  <img src="./screenshots/mobile-top.png" width="320px" style="margin-right: 2rem;" />
-  <img src="./screenshots/mobile-bottom.png" width="320px" />
+<div align="center" style="margin-top: 1.5rem;">
+  <img src="./screenshots/mobile-top.png" width="280px" style="margin-right: 1.5rem;" alt="Mobile top" />
+  <img src="./screenshots/mobile-bottom.png" width="280px" alt="Mobile bottom" />
 </div>
 
-## Getting started
+---
 
-```bash
-# install dependencies
-$ yarn install
+## About
 
-# serve with hot reload at localhost:1234
-$ yarn dev
+This project was created to practice modern front-end fundamentals by building a clean, responsive landing page from a design reference (Figma).
 
-# build to deploy app
-$ yarn build
-```
+**What I focused on:**
+- Semantic HTML structure
+- Modern CSS / Sass (SCSS) layout techniques
+- Responsive design for desktop and mobile
+- Working with a design reference
+- Using a simple bundler (Parcel)
 
-## Conventional Commits
+---
 
-[Conventional Commits](https://www.conventionalcommits.org) is a specification for adding human and machine readable meaning to commit messages shared by a large community of developers.
+## Tech Stack
 
-## Contributing
+- **HTML5**
+- **Sass (SCSS)**
+- **Parcel** (bundler)
 
-If you want to contribute on this project, it will a great pleasure 🚀 Don't hesitate to create a pull request 🤩
+---
 
-All contributions are welcome to improve the user experience and to learn new things about frontend languages 💖
+├── index.html
 
-# License
+├── src/           # Styles and scripts
 
-[MIT License](./LICENSE)
+├── assets/        # Images and icons
+
+└── screenshots/   # Preview images
+
+---
+
+## Notes
+
+This is a personal learning project completed while improving my HTML and CSS skills.
+
+It is not intended for production use.
